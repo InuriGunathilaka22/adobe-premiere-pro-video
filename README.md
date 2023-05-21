@@ -17,4 +17,4 @@ Feel free to check out the video for a visual demonstration of the project. Don'
 
 ![Screenshot (22)](https://github.com/InuriGunathilaka22/adobe-premiere-pro-video/assets/87197299/8add614d-37d2-4f30-8d27-1792ac099650)
 
-https://youtu.be/gmGf3l9Bgds
+<a href = "https://youtu.be/gmGf3l9Bgds"> Adobe Premiere Pro Video Editing Project 🎥 </a>
